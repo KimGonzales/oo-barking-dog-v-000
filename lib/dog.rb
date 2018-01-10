@@ -8,4 +8,8 @@ class Dog
     @name
   end
 
+  def initialize(bark)
+    @bark = puts "woof!"
+  end
+
 end
